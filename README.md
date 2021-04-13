@@ -1,8 +1,14 @@
 # Google's MuRIL (Multilingual Representations for Indian Languages)
 
 ## To view the video
-* [Click here](https://youtu.be/mfIB2jM2sII)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=mfIB2jM2sII" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/mfIB2jM2sII?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![Google's MuRIL (Multilingual Representations for Indian Languages)](http://img.youtube.com/vi/mfIB2jM2sII/0.jpg)](http://www.youtube.com/watch?v=mfIB2jM2sII)
 
